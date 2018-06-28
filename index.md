@@ -1,6 +1,9 @@
 ---
 layout: home
 ---
-Mark your Calendars! Zoé and Carl are getting married 28 October 2018 in Baltimore, MD.
+Zoé and Carl are getting married! Come celebrate with us!
 
-Invitation to follow
+28 October 2018
+Baltimore, Maryland
+
+Invitation (and more complete website!) to follow
