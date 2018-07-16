@@ -1,2 +1,2 @@
 # BmoreZarl
-BmoreZarl is the Zoé and Carl's wedding website
+BmoreZarl is Zoé and Carl's wedding website
