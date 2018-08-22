@@ -1,7 +1,7 @@
 ---
 layout: info
-title: Information
-permalink: /information/
+title: Ceremony
+permalink: /cermony/
 ---
 
 # Ceremony and reception
@@ -15,7 +15,3 @@ The reception and ceremony will be held on Sunday October 28, 2018 at 2pm in the
 
 ## Transportation
 The Cylburn Arbortum is conveniently accessible by bicyle, public transportation, ride-share apps, and personal automobiles. Please consider carpooling to protect our environment; however there is plenty of parking available. If you must travel by car, please drive responsibly.
-
-
-
-
