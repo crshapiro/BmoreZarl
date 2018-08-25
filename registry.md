@@ -10,6 +10,7 @@ We are so grateful for your love and support and are excited to share our weddin
 * [Baltimore Greenspace](http://baltimoregreenspace.org/)
 * [Global Growers](https://www.globalgrowers.org/donate/)
 * [Strafford Historical Society](https://strafhist.weebly.com/) Mail checks to: PO Box 33 Center Strafford, NH 03815
+* Another organization near and dear to your heart!
 <!-- * Girls in science? -->
 <!-- * Conservation? -->
 <!-- * Doctors Without Borders? -->
