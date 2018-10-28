@@ -9,3 +9,6 @@ Joint pre-wedding celebration: for those of you in town already, we’ll be cele
 
 # After the reception
 Post-wedding celebration: If you’re not catching the late night Sunday car/bus/train/plane to get back for work on Monday, we’d love for you to drop by our place after the wedding to continue the festivities! We’ll have board games, drinks, perhaps some late night pizza, and extra cake for all. Casual as can be, but it’ll give us some extra time to spend with the people we love.
+
+2802 Saint Paul St Apt 2
+Baltimore MD 21218
