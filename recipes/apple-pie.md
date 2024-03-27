@@ -18,5 +18,5 @@ title:  Apple Pie
 - Top with egg white + 1 T sugar
 
 ## Instructions 
-1. Bake at 425° for 25 min
-1. Turn down to 375° and bake for an additional 30-35 min
+1. Bake at 425°F for 25 min
+1. Turn down to 375°F and bake for an additional 30-35 min
