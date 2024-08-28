@@ -16,7 +16,7 @@ title:  Chocolate Zucchini Cake
 - 4 T cocoa
 - 1/2 t baking powder
 - 1 t baking soda
-- 1 t sinnamon
+- 1 t cinnamon
 - 1/8 t clove
 - salt
 - 2 c grated zucchini
