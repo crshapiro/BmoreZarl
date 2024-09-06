@@ -41,7 +41,7 @@ title: Recipes
 [Banana Bread](banana-bread) (v)
 [Cornbread](cornbread)
 [Irish Soda Bread](irish-soda-bread)
-[Zuchini Bread](Zuchini-bread)
+[Zuchini Bread](zuchini-bread)
 
 
 v: vegan friendly
